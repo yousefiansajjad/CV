@@ -6,7 +6,7 @@
 
 [Large Eddy Simulation (LES) of a Rapid Compression Machine (RCM)](/sample_page)
 <img src="iImages/041020.gif?raw=true"/>
-<img src="iImages/041020.gif?raw=true"/>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
