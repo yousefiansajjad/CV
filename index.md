@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### HIgh-Fidelity 3D Computational Fluid Dynamic (CFD): Large Eddy Simulation of an Rapid Compression Machine (RCM)
 
 [Project 1 Title](/sample_page)
 <img src="images/2020-10-01_12-01-51.gif?raw=true"/>
