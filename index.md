@@ -2,9 +2,10 @@
 
 ---
 
-### High-Fidelity Computational Fluid Dynamic (CFD) Simulations
+### Computational Fluid Dynamic (CFD) Simulations
 
-[Large Eddy Simulation (LES) of an Rapid Compression Machine (RCM)](/sample_page)
+[Large Eddy Simulation (LES) of a Rapid Compression Machine (RCM)](/sample_page)
+<img src="iImages/041020.gif?raw=true"/>
 <img src="iImages/041020.gif?raw=true"/>
 
 ---
